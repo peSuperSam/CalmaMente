@@ -1,0 +1,40 @@
+# Flutter/Dart
+.dart_tool/
+.idea/
+.vscode/
+.packages
+.flutter-plugins
+.flutter-plugins-dependencies
+.metadata
+# Build outputs
+build/
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/.symlinks/
+ios/Pods/
+.symlinks/
+.packages
+pubspec.lock
+# macOS
+macos/Flutter/ephemeral/
+# Web
+web/.dart_tool/
+web/flutter/
+# Linux
+linux/flutter/
+# Windows
+windows/flutter/
+# IntelliJ
+*.iml
+*.ipr
+*.iws
+.idea/
+# VS Code
+.vscode/
+# Generated files
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.package
+.packages
+.flutter/
