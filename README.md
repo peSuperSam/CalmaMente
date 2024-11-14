@@ -63,8 +63,55 @@ Essas bibliotecas foram utilizadas para gerenciar a autenticação, armazenament
 
 
 ## Screenshots
-![Tela Inicial](docs/tela_inicial.png)
-![Tela de Relatórios](docs/tela_relatorio.png)
+
+### Tela Inicial e Login
+- **Tela Login**
+  ![Tela Login](docs/tela_login.jpg)
+- **Tela Registro**
+  ![Tela Registro](docs/tela_registro.jpg)
+
+### Funções Principais
+- **Tela de Ansiedade**
+  ![Tela de Ansiedade](docs/tela_ansiedade.jpg)
+- **Tela do Diário**
+  ![Tela do Diário](docs/tela_diario.jpg)
+- **Tela de Registros**
+  ![Tela de Registros](docs/tela_registros.jpg)
+- **Tela de Relatórios**
+  ![Tela de Relatórios](docs/tela_relatorios.jpg)
+
+### Recursos de Bem-Estar
+- **Exercícios de Respiração**
+  ![Tela de Respiração](docs/tela_respiracao.jpg)
+- **Mindfulness**
+  ![Tela Mindfulness](docs/tela_mindfulness.jpg)
+- **Mindfulness Sono**
+  ![Tela Mindfulness Sono](docs/tela_mindfulness_sono.jpg)
+
+### Biblioteca de Recursos
+- **Tela Biblioteca**
+  ![Tela Biblioteca](docs/tela_biblioteca.jpg)
+- **Tela Relaxamento**
+  ![Tela Relaxamento](docs/tela_relaxamento.jpg)
+
+### Outras Funcionalidades
+- **Tela de Progresso**
+  ![Tela Progresso](docs/tela_progresso.jpg)
+- **Modo SOS**
+  ![Tela SOS](docs/tela_sos.jpg)
+- **Tela Suporte**
+  ![Tela Suporte](docs/tela_suporte.jpg)
+
+### Comunidade Anônima
+- **Tela Comunidade**
+  ![Tela Comunidade](docs/tela_comunidade.jpg)
+- **Regras de Boa Convivência**
+  ![Tela Regras de Boa Convivência](docs/tela_regrasdeboa_convivencia.jpg)
+
+### Feedback
+- **Tela Feedback**
+  ![Tela Feedback](docs/tela_feedback.jpg)
+
 
 ## Como Executar
 Para experimentar o *CalmaMente*, você pode baixá-lo diretamente na Google Play Store:
