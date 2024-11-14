@@ -69,5 +69,5 @@ Essas bibliotecas foram utilizadas para gerenciar a autenticação, armazenament
 ## Como Executar
 Para experimentar o *CalmaMente*, você pode baixá-lo diretamente na Google Play Store:
 
-[![Baixar na Play Store](https://img.shields.io/badge/Baixar%20na%20Play%20Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](LINK_DA_PLAY_STORE)
+[![Baixar na Play Store](https://img.shields.io/badge/Baixar%20na%20Play%20Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](AINDA_NÃO_ESTÁ_DISPONIBILAZDO_NA_PLAYSTORE)
 
