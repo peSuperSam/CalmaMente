@@ -117,8 +117,3 @@ Essas bibliotecas foram utilizadas para gerenciar a autenticação, armazenament
 Para experimentar o *CalmaMente*, você pode baixá-lo diretamente na Google Play Store:
 
 [![Baixar na Play Store](https://img.shields.io/badge/Baixar%20na%20Play%20Store-4285F4?style=for-the-badge&logo=google-play&logoColor=white)](AINDA_NÃO_ESTÁ_DISPONIBILIZADO_NA_PLAYSTORE)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
->>>>>>> ee784f3 (Inicio: Projeto completo do CalmaMente)
